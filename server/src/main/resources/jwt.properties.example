@@ -1,0 +1,2 @@
+jwt.rsaPublicKey=your-public-key
+jwt.rsaPrivateKey=your-private-key

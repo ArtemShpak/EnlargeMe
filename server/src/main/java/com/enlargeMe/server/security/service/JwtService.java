@@ -19,7 +19,7 @@ import java.util.Date;
 import java.util.function.Function;
 
 @Service
-@PropertySource("classpath:JWT.properties")
+@PropertySource("classpath:jwt.properties")
 public class JwtService {
 
     // Отримуємо публічний та приватний RSA ключі з файлу властивостей
